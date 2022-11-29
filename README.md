@@ -1,6 +1,4 @@
-# Introduction
-
-
+Audited with [Rustle](https://github.com/blocksecteam/rustle), the first automatic auditor for NEAR Community
 
 # Smart Contract Functions
 
